@@ -4,11 +4,21 @@ img {
 }
 
 h1 {
-    color: rgb(255, 166, 0);
+    color: rgba(195, 0, 255, 0.644);
     text-align: center;
 }
 
 p {
     font-size: 18px;
-    color: rgb(128, 0, 85);
+    color: rgb(0, 0, 0);
+
 }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Lora:wght@400..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+ /* font-family: 'Merriweather', sans-serif; */ */ */
+
+}
+
