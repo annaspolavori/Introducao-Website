@@ -2,12 +2,14 @@ img {
     width: 10%;
     height: auto;
     border-radius: 50%;
+
 }
 
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
+    text-align: center;
 
 }
 
@@ -66,13 +68,23 @@ footer {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
 .links a {
     text-decoration: none;
-    color:rgb(233, 176, 176);
+    color: rgb(233, 176, 176);
+
 }
-.numero {
-    color:rgb(233, 176, 176);
+
+.imagens {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+
 }
-.email {
-    color:rgb(233, 176, 176);
+
+
+.imagens img {
+    width: 100px;
 }
