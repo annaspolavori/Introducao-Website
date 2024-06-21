@@ -1,0 +1,26 @@
+.links a {
+    text-decoration: none;
+    color: rgb(233, 176, 176);
+
+}
+
+.imagens {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+
+}
+
+
+.imagens img {
+    width: 100px;
+}
+
+.projetos a { 
+    text-decoration: none;
+    color: rgb(233, 176, 176);
+    display: flex;
+    flex-direction: column;
+}
